@@ -6,7 +6,7 @@
 ## 🎓 I'm a Software Engineering Immersive Resident at Hackreactor and a 10 year US Navy Veteran
 
 - 🚀 Currently advancing my debut project, JS Quest 2: The Next Level.
-- 🌿 Deepening my skills in intermediate full-stack development through Galvanize's program Hackreactor.
+- 🌿 Improved my skills in intermediate full-stack development through Galvanize's program Hackreactor.
 - 🤝 Eager to collaborate on diverse projects with fellow enthusiasts.
 - 🗨️ Feel free to inquire about any topic.
 - ✨ Interesting tidbit: Spent a decade in the Navy and have a passion for trampoline acrobatics!
