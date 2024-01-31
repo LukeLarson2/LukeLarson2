@@ -31,6 +31,7 @@
   </a>
 </p>
 
+<!--
 <h3>🏆 My Github Stats:</h3>
 
 <div>
@@ -41,7 +42,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeLarson2&hide=php&theme=tokyonight" />
 </a>
 </div>
-
+-->
 
 
 
