@@ -3,9 +3,9 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=LukeLarson2.LukeLarson2"/> <span><img src="https://img.shields.io/github/followers/LukeLarson2?label=Followers&logo=Github"/></span>
 </div>
 
-## 🎓 I'm a Software Engineering Immersive Resident at Hackreactor and a 10 year US Navy Veteran
+## 🎓 I'm a Software Engineer and a 10 year US Navy Veteran
 
-- 🚀 Currently advancing my debut project, JS Quest 2: The Next Level.
+- 🚀 Currently contributing to platform development for Tax CSA LLC.
 - 🌿 Improved my skills in intermediate full-stack development through Galvanize's program Hackreactor.
 - 🤝 Eager to collaborate on diverse projects with fellow enthusiasts.
 - 🗨️ Feel free to inquire about any topic.
