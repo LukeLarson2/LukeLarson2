@@ -5,9 +5,9 @@
 
 ## 🎓 I'm a Software Engineer and a 10 year US Navy Veteran
 
-- 🚀 Currently contributing to platform development for Tax CSA LLC.
+- 🚀 Currently the Lead Engineer at Tax CSA Inc.
 - 🌿 Improved my skills in intermediate full-stack development through Galvanize's program Hackreactor.
-- 🤝 Eager to collaborate on diverse projects with fellow enthusiasts.
+- 🤝 Love to review code, design concepts and help with resume/interview skills.
 - 🗨️ Feel free to inquire about any topic.
 - ✨ Interesting tidbit: Spent a decade in the Navy and have a passion for trampoline acrobatics!
 
